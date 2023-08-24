@@ -1,4 +1,4 @@
-# Hi there, I'm Aldy Noviyan Trimaha Putra - aka [aldynoviyan](https://www.youtube.com/@aldynoviyan3852/featured)👋
+# Hi there, I'm Aldy Noviyan Trimaha Putra - [aldynoviyan](https://www.youtube.com/@aldynoviyan3852/featured)👋
 ## About me:
 - 🔭 I’m currently working as Freelance and is looking for a job
 - 🌱 I’m currently learning Data Google Studio, Data Visualisasi, HTML, Javascript & CSS
