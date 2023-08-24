@@ -14,15 +14,15 @@
  #### 2. [SMK Kesuma Bangsa 2 Depok](https://smk-kesumabangsa2.sch.id/) | RPL (Rekayasa Perangkat Lunak) | Depok `2008-2011`
 
 ## Work Experience:
-#### 1. [PT. Home Credit Indonesia](https://www.homecredit.co.id/) | Back Office (Check Document) | Jakarta `Juli'2017 - 2020`
+#### 1. [PT. Home Credit Indonesia](https://www.homecredit.co.id/) | Back Office (Check Document) | Jakarta `Juli 2017 - 2020`
    - Validation KTP & second document
    - Gives an error in the document
    - Update data to system
-#### 2. [IGT Solution](https://www.igtsolutions.com/) | Email & Sosial Media Operation | Jakarta `Oktober'2021 - `Desember'2021`
+#### 2. [IGT Solution](https://www.igtsolutions.com/) | Email & Sosial Media Operation | Jakarta `Oktober2021 - Desember 2021`
    - Handle customer complaints via email & social media
    - Create ticket
    - Send ticket for another department
-#### 3. PT.Bintang Engineering Sapta Teknik | Project Estimator & Drafter | Kab. Bogor `Oktober'2022 - `Agustus'2023`
+#### 3. PT.Bintang Engineering Sapta Teknik | Project Estimator & Drafter | Kab. Bogor `Oktober2022 - Agustus 2023`
    - Calculate the approximate price for one project
    - Create a quotation letter
    - Make a view 2D - 3D electric panel at AutoCAD
