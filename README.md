@@ -10,7 +10,7 @@
 ## Education:
 
 #### 1. [Politeknik LP3I Jakarta - Kampus Depok](https://www.lp3i.ac.id/) | Bachelor of Informatika Komputer | Depok `2013-2016`
-   - treasurer at UKM Futsal @ LP3I
+   - treasurer at UKM Futsal at LP3I
  #### 2. [SMK Kesuma Bangsa 2 Depok](https://smk-kesumabangsa2.sch.id/) | RPL (Rekayasa Perangkat Lunak) | Depok `2008-2011`
 
 ## Work Experience:
