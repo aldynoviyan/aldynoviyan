@@ -22,7 +22,7 @@
    - Handle customer complaints via email & social media
    - Create ticket
    - Send ticket for another department
-#### 3. PT.Bintang Engineering Sapta Teknik | Project Estimator & Drafter | Kab. Bogor `Oktober2022 - Agustus 2023`
+#### 3. PT.Bintang Engineering Sapta Teknik | Project Estimator & Drafter | Kab. Bogor `Oktober2022 - July 2023`
    - Calculate the approximate price for one project
    - Create a quotation letter
    - Make a view 2D - 3D electric panel at AutoCAD
